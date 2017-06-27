@@ -22,6 +22,8 @@
 
   <ItemGroup>
     <PackageReference Include="Autofac" Version="4.6.0" />
+    <PackageReference Include="Microsoft.Bot.Connector.DirectLine" Version="3.0.2" />
+    <PackageReference Include="Microsoft.Rest.ClientRuntime" Version="2.3.8" />
     <PackageReference Include="Prism.Autofac.Forms" Version="6.3.0" />
     <PackageReference Include="ReactiveProperty" Version="4.0.0-pre3" />
     <PackageReference Include="Xamarin.Forms" Version="2.3.5.255-pre5" />
